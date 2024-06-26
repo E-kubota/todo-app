@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "content": "Create React app をインストールする",
+      "done": true
+    },
+    {
+      "id": "2",
+      "content": "Json Server仮のAPIを作成する",
+      "done": false
+    },
+    {
+      "id": "3",
+      "content": "Chakra UIをインストールする",
+      "done": false
+    },
+    {
+      "id": "01J19N57TZ5N2YBXAW534P796A",
+      "content": "todo-appを作成する",
+      "done": false
+    },
+    {
+      "id": "01J19N5QPTV1ABVRM1G1ZESZZ5",
+      "content": "todo-appにテスト投稿してみる",
+      "done": false
+    }
+  ]
+}
